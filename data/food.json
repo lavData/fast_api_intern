@@ -1,0 +1,23 @@
+{
+    "food1": {
+        "food_id": "food1",
+        "type": "thuc an",
+        "name": "bun cha",
+        "price": 20000,
+        "description": "thom ngon tuyet voi"
+    },
+    "food2": {
+        "food_id": "food2",
+        "type": "thuc uong",
+        "name": "sua tuoi chan trau duong den",
+        "price": 40000,
+        "description": "ngon, nhung hai gan hai than"
+    },
+    "food3": {
+        "food_id": "food3",
+        "type": "thuc an",
+        "name": "com chien xoi mo",
+        "price": 22000,
+        "description": "ga don rum, nhieu mo, an kho tieu"
+    }
+}

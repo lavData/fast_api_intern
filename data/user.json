@@ -1,0 +1,23 @@
+{
+    "lav": {
+        "username": "lav",
+        "password": "123",
+        "name": "vu",
+        "full_name": null,
+        "address": "VN"
+    },
+    "thin": {
+        "username": "thin",
+        "name": "thin",
+        "full_name": "nguyen van thin",
+        "address": "vn",
+        "password": "123"
+    },
+    "tan": {
+        "username": "tan",
+        "name": "tan",
+        "full_name": "nguyen van tan",
+        "address": "vn",
+        "password": "123"
+    }
+}
